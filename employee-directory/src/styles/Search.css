@@ -1,15 +1,19 @@
 .searchbox button {
-    border: 1px solid #101D42;
-    margin-bottom: 25px;
+  border: 1px solid #101d42;
+  margin-bottom: 25px;
 }
 
 .searchbox button:hover {
-    background-color: #101D42;
-    color: #ffffff;
+  background-color: #101d42;
+  color: #ffffff;
 }
 
-.searchbox{
-    margin-bottom: 15px;
-    align-content: center;
-    justify-content: center;
+.searchbox {
+  margin-bottom: 15px;
+  align-content: center;
+  justify-content: center;
+}
+
+.navbar {
+  justify-content: center;
 }
