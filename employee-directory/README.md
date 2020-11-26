@@ -15,8 +15,8 @@
 This a React app that uses axios to get random users and displays the users info in a table. It has a search function and a sort by name function. 
 
 ## Screen-Shots
-![Screen Shot 1](./employee-directory/public/screenshot1.PNG),
-![Screen Shot 2](./employee-directory/public/screenshot2.PNG)
+![Screen Shot 1](./public/screenshot1.PNG),
+![Screen Shot 2](./public/screenshot2.PNG)
 
 
 ## Technology-Used
